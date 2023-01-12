@@ -13,6 +13,6 @@ public class Game
 
     public void PlayGame()
     {
-        _players.Any(player => player.PlayAgain());
+        _players.All(player => player.PlayAgain());
     }
 }
