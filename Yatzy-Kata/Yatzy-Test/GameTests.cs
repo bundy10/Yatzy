@@ -4,6 +4,8 @@ using Yatzy_Kata.Interfaces;
 
 namespace Yatzy_Test;
 
+//ok
+
 public class GameTests
 {
     [Fact]
